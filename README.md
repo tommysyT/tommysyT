@@ -37,7 +37,7 @@ Hi, I'm tommy Sy, a passionate self-taught frontEnd web developer.
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOwino&layout=compact&theme=highcontrast)](https://https://github.com/tommysyT)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommysyT&layout=compact&theme=highcontrast)](https://https://github.com/tommysyT)
 ![Tommy sy's github stats](https://github-readme-stats.vercel.app/api?username=TommysyT&count_private=true&show_icons=true&theme=highcontrast)
 
 -----
